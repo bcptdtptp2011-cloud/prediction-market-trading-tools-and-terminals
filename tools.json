@@ -6093,5 +6093,27 @@
   "sources": [
    "https://github.com/bmorphism/manifold-mcp-server"
   ]
- }
+ },
+  {
+    "name": "PolyKal",
+    "url": "https://polymarket-kalshi.com/",
+    "category": "Directories & Other",
+    "description": "Free fee calculator and cost comparison for Kalshi and Polymarket: taker and maker fees, after-fee price and break-even per trade, plus a dated fee-schedule reference and a free CC-BY fee JSON. No login. Does not place trades.",
+    "venues": [
+      "Kalshi",
+      "Polymarket"
+    ],
+    "executes_trades": false,
+    "pricing": "Free",
+    "open_source": false,
+    "github": null,
+    "backers": null,
+    "status": "live",
+    "status_note": "Site loaded on 2026-09-21 with a working fee calculator, a /fee-schedule reference and /data/fees.json (CORS-enabled, CC-BY).",
+    "last_verified": "2026-09-21",
+    "sources": [
+      "https://polymarket-kalshi.com/",
+      "https://polymarket-kalshi.com/fee-schedule/"
+    ]
+  }
 ]
